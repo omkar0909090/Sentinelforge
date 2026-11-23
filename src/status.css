@@ -1,0 +1,5 @@
+.system-status.error{color:#f29a91}.system-status.loading{color:#d5bc76}.system-status.connected{color:#75d1aa}.live-dot.offline{background:#f17975;box-shadow:0 0 7px #f1797555}.live-dot.pending{background:#dfbd65;box-shadow:0 0 7px #dfbd6555}
+
+.alert-origin{display:inline-flex;align-items:center;width:max-content;border:1px solid #334155;border-radius:4px;padding:2px 5px;color:#94a3b8;font-size:9px;font-weight:700;letter-spacing:.04em}.alert-origin.api{border-color:#2563eb66;color:#60a5fa;background:#1d4ed80f}.alert-origin.seeded{color:#94a3b8}
+
+.toast.error{background:#321d22;color:#ffc1ba;border-color:#65343a}
